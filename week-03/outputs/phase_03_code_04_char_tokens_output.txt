@@ -1,0 +1,3 @@
+$ python code_04_char_tokens.py
+['h', 'e', 'l', 'l', 'o']
+[0, 1, 2, 2, 3]

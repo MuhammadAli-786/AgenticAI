@@ -1,0 +1,12 @@
+sentencepiece
+sentence-transformers
+scikit-learn
+numpy
+pandas
+pypdf
+python-docx
+openpyxl
+python-dotenv
+fastapi
+uvicorn
+pydantic

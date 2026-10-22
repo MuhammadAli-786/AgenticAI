@@ -1,0 +1,3 @@
+$ python code_09_simple_tokenizer.py
+['agentic', 'ai', 'systems', 'can', 'use', 'tools']
+Token count: 6

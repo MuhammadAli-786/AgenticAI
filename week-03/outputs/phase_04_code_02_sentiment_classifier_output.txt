@@ -1,0 +1,16 @@
+$ python code_02_sentiment_classifier.py
+Accuracy: 0.0
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.00      0.00      0.00       1.0
+    positive       0.00      0.00      0.00       1.0
+
+    accuracy                           0.00       2.0
+   macro avg       0.00      0.00      0.00       2.0
+weighted avg       0.00      0.00      0.00       2.0
+
+
+New text: I really love this
+Prediction: positive

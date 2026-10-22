@@ -1,0 +1,5 @@
+$ python phase_02_text_preprocessing.py
+i need help
+hello world
+when is the final exam
+i cannot login to the student portal
